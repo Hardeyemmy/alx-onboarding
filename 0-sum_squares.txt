@@ -1,0 +1,20 @@
+BEGIN
+
+
+NUMBER a, b, sum
+
+OUTPUT("input number:")
+
+INPUT a
+
+OUTPUT("input number:")
+
+INPUT b
+
+sum = a*a + b*b
+
+OUTPUT sum
+
+
+
+END
